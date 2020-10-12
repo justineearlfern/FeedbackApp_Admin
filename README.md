@@ -8,7 +8,7 @@ Open a new terminal inside your ReactJS project folder. Run the following:
 npm install
 npm start
 ```
-If everything is set up correctly, you should see your new webapp running in your browser automatically.
+If everything is set up correctly, you should see your new web app running in your browser automatically.
 
 <img src="https://github.com/justineearlfern/FeedbackApp_Admin/blob/master/src/Photos/01.PNG" width="800" />
 
