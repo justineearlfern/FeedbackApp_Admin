@@ -12,7 +12,7 @@ If everything is set up correctly, you should see your new webapp running in you
 
 <img src="https://github.com/justineearlfern/FeedbackApp_Admin/blob/master/src/Photos/01.PNG" width="800" />
 
-Once you log in you can see
+Once you log in you can see registration for the users and the list of feedback sent by students.
 
 <img src="https://github.com/justineearlfern/FeedbackApp_Admin/blob/master/src/Photos/02.PNG" width="800" />
 
