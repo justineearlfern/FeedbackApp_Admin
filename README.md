@@ -10,4 +10,4 @@ npm start
 ```
 If everything is set up correctly, you should see your new webapp running in your browser automatically.
 
-<img src="https://github.com/justineearlfern/FeedbackApp_Admin/blob/master/src/Photos/01.PNG" width="300" />
+<img src="https://github.com/justineearlfern/FeedbackApp_Admin/blob/master/src/Photos/01.PNG" width="500" />
